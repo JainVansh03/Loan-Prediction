@@ -5,6 +5,9 @@ The goal of the loan prediction project is to develop a machine learning model t
 
 **
 Steps Involved in the Project**
+
+
+
 Dataset Collection:
 
 The dataset is sourced from Kaggle, containing various features like applicant income, education, employment status, loan amount, loan term, credit history, and loan status (approved or not).
